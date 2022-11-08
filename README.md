@@ -7,8 +7,9 @@ Stack:
 - Web: React, next, tailwind
 
 Links:   
-https://github.com/clebersimm/nlwcopamobile
-
+https://github.com/clebersimm/nlwcopamobile   
+https://github.com/clebersimm/nlwserver   
+https://github.com/clebersimm/nlwweb   
 
 
 Thanks to https://www.rocketseat.com.br/
